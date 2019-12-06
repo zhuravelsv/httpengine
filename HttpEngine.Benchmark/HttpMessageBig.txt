@@ -1,0 +1,26 @@
+POST /bin/login HTTP/1.1
+Transfer-Encoding: chunked
+Host: 127.0.0.1:8000
+Accept: image/gif, image/jpeg, */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Accept-Ranges: bytes
+Date: Sun, 18 Oct 2009 08:56:53 GMT
+Server: Apache/2.2.14 (Win32)
+Vary: negotiate,accept
+TCN: choice
+Last-Modified: Wed, 21 Feb 1996 19:45:52 GMT
+ETag: "10000000565a5-2c-3e94b66c2e680"
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Referer: http://127.0.0.1:8000/login.html
+Content-Length: 44
+Keep-Alive: timeout=5, max=100
+Connection: close
+Content-Type: multipart/form-data; boundary=---------------------------7d41b838504d8
+X-Pad: avoid browser bug
+Allow: GET, HEAD, POST, OPTIONS, TRACE
+Location: http://www.amazon.com:80/exec/obidos/subst/home/home.html
+Set-Cookie: skin=; domain=.amazon.com; path=/; expires=Wed, 01-Aug-01 12:00:00 GMT
+Cache-Control: no-cache
+Pragma: no-cache
+Via: 1.1 xproxy (NetCache NetApp/5.3.1R4D5)
